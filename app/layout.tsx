@@ -3,7 +3,7 @@ import { inter } from "./ui/fonts";
 
 import { Metadata } from "next";
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
 	title: {
 		template: "%s | Acme Dashboard",
 		default: "Acme Dashboard",
